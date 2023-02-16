@@ -1,0 +1,15 @@
+.buttonClick {
+    pad: 10px 15px;
+    background-color: #ff7675;
+    font-weight: 600;
+    color:white;
+    border-radius: 5px;
+    border: none;
+    width: 80px;
+    height: 20px;
+    margin-left: 2px;
+}
+
+.buttonClick:hover, .buttonClick:focus {
+    background-color: #a29bfe;
+}
